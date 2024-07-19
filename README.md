@@ -1,4 +1,6 @@
 ![Home Page](https://i.imgur.com/JXxDucz.png)
+![Quiz](https://i.imgur.com/2fd8qrf.png)
+![LearnMore](https://i.imgur.com/aqAcw2l.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
